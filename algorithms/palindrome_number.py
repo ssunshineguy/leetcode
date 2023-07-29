@@ -2,6 +2,8 @@
 
 """
 9. Palindrome Number
+Problem link: https://leetcode.com/problems/palindrome-number/
+
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
 Example 1:
